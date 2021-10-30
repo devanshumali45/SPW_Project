@@ -1,0 +1,6 @@
+Name,                       Mdl_no, CC,     Abs             Rent (Daiy) Rent(Weekly) Rent(Monthly)
+KTM RC 200,                 B01,    200CC,  Dual Chanel     100          500         1500
+Royal Enfield Bullet 350,   B02,    346CC,  Single Chanel   100          400         1200
+TVS Apache RTR 160 4V,      B03,    160CC,  Single Chanel   80           350         1000
+Bajaj Pulsar 150,           B04,    150CC,  Single Chanel   80           320         800
+Hero Splendor Plus          B05,    100CC,  Single Chanel   50           200         600
